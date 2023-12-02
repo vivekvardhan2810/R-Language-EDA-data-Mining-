@@ -8,3 +8,4 @@
 <p>5) Boxplots and histograms are created for each variable using a for loop, providing insights into the distribution and spread of data for individual variables.</p>
 <p>6) The correlation matrix (cor(iris[, 1:4])) quantifies the linear relationships between variables.</p>
 <p>7) The corrplot library is used to create a heatmap visualizing the correlation matrix.</p>
+<p>8) The corrplot library is used to create a heatmap visualizing the correlation matrix.</p>
