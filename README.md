@@ -9,3 +9,4 @@
 <p>6) The correlation matrix (cor(iris[, 1:4])) quantifies the linear relationships between variables.</p>
 <p>7) The corrplot library is used to create a heatmap visualizing the correlation matrix.</p>
 <p>8) The corrplot library is used to create a heatmap visualizing the correlation matrix.</p>
+<P>Overall, these visualizations and analyses are commonly used in exploratory data analysis (EDA) to understand the characteristics of a dataset.</P>
